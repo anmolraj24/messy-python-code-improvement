@@ -16,7 +16,7 @@ from case_studies.etl.refactored_etl import clean_user_records
 
 
 def generate_mock_data(n: int = 5000):
-    first_names = ["Aarav", "Priya", "Rahul", "Ananya", "Rohan", "Sneha", "Neev", "Vikram", "Neha", "Aditya"]
+    first_names = ["Aarav", "Priya", "Rahul", "Ananya", "Rohan", "Sneha", "Anmol", "Vikram", "Neha", "Aditya"]
     last_names = ["Sharma", "Verma", "Rupareliya", "Gupta", "Patel", "Mehta", "Singh", "Kumar"]
     domains = ["gmail.com", "yahoo.com", "outlook.com", "jecrc.ac.in"]
 

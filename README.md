@@ -91,7 +91,7 @@ python -m unittest discover -s tests
 ---
 
 ## 👤 Author
-**Neev Rupareliya**  
+**Anmol Raj**  
 - B.Tech CSE Student, JECRC University  
-- GitHub: [@Neev2850](https://github.com/Neev2850)  
-- Portfolio: [personal-portfolio-mu-eosin-58.vercel.app](https://personal-portfolio-mu-eosin-58.vercel.app)
+- GitHub: [@anmolraj24](https://github.com/anmolraj24)  
+- Portfolio: [personal-portfolio-anmolraj24.vercel.app](https://personal-portfolio-anmolraj24.vercel.app)
